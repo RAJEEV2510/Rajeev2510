@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 <h3 align="center">A innovative developer</h3>
 
-- 👨‍💻 All of my projects are available at [http://techiu.epizy.com/](http://techiu.epizy.com/)
+- 👨‍💻 All of my projects are available at [http://techiu.epizy.com/](http://rajeev-portfolio.me/)
 
 - 💬 Ask me about **reactjs**
 
