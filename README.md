@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
 <h3 align="center">A innovative developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://rajeev2510.github.io/](http://rajeev-portfolio.me/)
+- 👨‍💻 All of my projects are available at [https://rajeev2510.github.io/](https://rajeev2510.github.io/)
 
 - 💬 Ask me about **reactjs**
 
