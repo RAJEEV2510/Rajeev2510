@@ -23,6 +23,7 @@ I build **real-time, high-throughput backend systems** that ingest, store and ac
 | [**iot-telemetry-timescale**](https://github.com/RAJEEV2510/iot-telemetry-timescale) | Real-time IoT platform · MQTT shared subscriptions · batched binary COPY into TimescaleDB · hypertables, compression, retention, continuous aggregates · live SignalR dashboard · end-to-end Docker CI |
 | [**dotnet-event-pipeline**](https://github.com/RAJEEV2510/dotnet-event-pipeline) | 100k+ events/min pipeline · transactional outbox · RabbitMQ channel pooling · PostgreSQL binary COPY · backpressure with `Channel<T>` · `SKIP LOCKED` · dead-letter queue |
 | [**efcore-dapper-bulk**](https://github.com/RAJEEV2510/efcore-dapper-bulk) | Hybrid EF Core + Dapper data layer · COPY / UNNEST bulk upserts at 1M-row scale · 50× faster than `AddRange` past 60k rows |
+| [**distributed-rate-limiter**](https://github.com/RAJEEV2510/distributed-rate-limiter) | Redis-backed rate limiter for ASP.NET Core · fixed window, sliding log, sliding counter and token bucket as atomic Lua scripts · one quota shared across instances · fail-open/closed · distributed end-to-end CI |
 | [**dyuti-os**](https://github.com/RAJEEV2510/dyuti-os) | Reproducible build pipeline for an India-first Linux desktop OS with Indian-language support |
 | [**Design-Patterns-Typescript**](https://github.com/RAJEEV2510/Design-Patterns-Typescript) | Software design patterns implemented in TypeScript |
 
